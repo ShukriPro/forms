@@ -1,33 +1,24 @@
-# React + TypeScript + Vite
+# Your Life in Perspective
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**A little reflection. A fresh perspective. A life full of possibility.**
 
-Currently, two official plugins are available:
+I created this form to help people feel more positive about life and explore what gives it meaning. My hope is that it helps you recognise the good in yourself, discover things to look forward to, and take a small step towards a life that feels more your own.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## A moment for yourself
 
-## React Compiler
+The form gently guides you through questions about your health, daily habits, relationships, and hopes for the future. Questions appear one at a time, so you can take it at your own pace.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+At the end, choose an AI chat or copy your answers into one to create your personal reflection, including:
 
-## Expanding the Oxlint configuration
+- A celebration of something you're already doing well.
+- One small step to support your wellbeing.
+- Ten bucket-list ideas inspired by your interests and dreams.
+- A statistical life-expectancy estimate to put time in perspective.
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+The estimate is a population-based illustration, not a prediction of your future or medical advice. The heart of this form is finding reasons to feel hopeful and making room for what matters to you.
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+## Make it personal
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
-# forms
+The optional “About your life” questions are a place to share what you enjoy, what you hope for, and what gives you purpose. It's okay if you're still figuring that out.
+
+*You don't need to have your whole life planned. One meaningful next step is enough to begin.*
